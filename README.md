@@ -1,4 +1,4 @@
-# SimpleInfectedVirus
+# InfectedVirus
 I use Masm Compiler to compile this code .asm
 
 ## Donation
